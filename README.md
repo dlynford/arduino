@@ -1,5 +1,5 @@
-# Temperature data collection using Arduino UNO R3.
-This repository holds basic arduino project data that was collected using arduino's basic starter kit. Specifically project 3 of the Projects Book(pg 43), which uses a small temperature sensor (TMP36) to collect ambient temperature data. I began working with this technology at the end of 2021. The goal of this work was to:
+# Temperature data collection and analysis using Arduino UNO R3.
+This repository holds project data that was collected using arduino's basic starter kit. Specifically, it examines project 3 of the Projects Book(pg 43) which uses a small temperature sensor (TMP36) to collect ambient temperature(°F) data. I began working with this technology at the end of 2021, so the code and accompanying projects are purley for rudimentary skill building. The goal of this work was to:
 
 1) Familiarize myself with basic IOT (Internet of Things) hardware.
 
