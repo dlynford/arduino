@@ -1,15 +1,14 @@
 # arduino
-This repository holds basic arduino project data that was collected using arduino's basic starter kit. I began working with this technology at the end of 2021.
-The goal of this work was to:
+This repository holds basic arduino project data that was collected using arduino's basic starter kit. Specifically project 3 of the the kit, which uses a small thermosensor to collect ambient temperature data. I began working with this technology at the end of 2021. The goal of this work was to:
 
-1)familiarize myself with basic IOT (Internet of Things) hardware.
+1) Familiarize myself with basic IOT (Internet of Things) hardware.
 
-2)Gain experience with arduino's c++ code and proprietary IDE.
+2) Gain experience with arduino's c++ code and proprietary IDE.
 
-3)Gain experience wiring basic cirucity and writing software that complements its circuitry.
+3) Gain experience wiring basic cirucity and writing software that complements its circuitry.
 
-4)Generate data that could be made into CSV files for data analysis.
+4) Generate data over a specified time perod that could be made into CSV files for data analysis.
 
-5)Create pandas dataframes using the collected data.
+5) Create pandas dataframes using the collected thermosensor data.
 
-6)Finally, graph the data using Juypter notebook.
+6) Finally, graph the data in Juypter notebook.
