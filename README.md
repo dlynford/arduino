@@ -5,7 +5,7 @@ This repository holds project data that was collected using arduino's basic star
 
 2) Gain experience with arduino's c++ code and proprietary IDE.
 
-3) Gain experience wiring basic cirucity and writing software that complements its circuitry.
+3) Gain experience wiring basic circuitry and writing software that complements its circuitry.
 
 4) Generate data over a specified time perod that could be made into CSV files for data analysis.
 
